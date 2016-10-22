@@ -1,12 +1,12 @@
 #!/bin/sh
 echo "---------------- Time for a repo update! -------------------"
 echo "----------- Removing Existing Packages file... -------------"
-rm -rv Packages.gz
+rm Packages.*
 echo "-------------------------- Done ----------------------------"
 echo "-------------- Scanning for new packages... ----------------"
 dpkg-scanpackages -m . /dev/null >Packages
 echo "-------------------------- Done ----------------------------"
 echo "------------ Applying the updated packages... --------------"
-gzip Packages
+bzip2 Packages
 echo "-------------------------- Done ----------------------------"
 echo "----Repository updated. Go back to your drugs you hippy.----"
