@@ -1,0 +1,8 @@
+Origin: vec1phyr's Cydia Repository
+Label: vec1phyr's Cydia Repository
+Suite: stable
+Version: 1.0
+Codename: vec1phyr
+Architectures: iphoneos-arm
+Components: main
+Description: vec1phyr's Cydia Repository
