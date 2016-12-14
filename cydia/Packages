@@ -2,16 +2,15 @@ Package: com.vec1phyr.8bitflight
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: vec1phyr <team_vec1phyr@yahoo.com>
-Depends: com.anemonetheming.anemone
-Conflicts: winterboard
+Depends: anemone
 Filename: deb//com.vec1phyr.8bitflight_1.1_iphoneosarm.deb
-Size: 434858
-MD5sum: 82c89fc5967c324c84b0fd74b21b6c22
-SHA1: 391af80d4f4148619ff899015188355327624a78
-SHA256: 8fa8b084991fff8599f5c4b59f66e95a052e3e75d7d7fac020ed7cdfc5178781
+Size: 677476
+MD5sum: cad0d19b74da329d750b31e2ef9f7665
+SHA1: 015ac500ad36baff7d5019a29ccd933bf54b845d
+SHA256: 03a1d3dc7780657b4242bc19a5000abc3af7edd48d17e469acab1c7416e36111
 Section: Themes
 Homepage: https://vec1phyr.github.io
-Description: Bring back the good times
+Description: Bring you back to the good days
 Author: vec1phyr <team_vec1phyr@yahoo.com>
 Depiction: https://vec1phyr.github.io/cydia/dep/com.vec1phyr.8bitflight.html
 Name: 8-Bit Flight (Flappy Bird)
@@ -22,12 +21,29 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: vec1phyr <team_vec1phyr@yahoo.com>
 Depends: com.anemonetheming.anemone
-Conflicts: winterboard
+Filename: deb//com.vec1phyr.apple-outline_1.0_iphoneosarm.deb
+Size: 16694
+MD5sum: 0c7119d1c6e7ac93419db296a2b2ad2a
+SHA1: 7548b2510ee606f712bfadbe1e9a08978d87978e
+SHA256: 8be349f2c85b748a84dae01317c83c3875f4b7f05fa3ff0e800cfb2f4ddccf55
+Section: Themes
+Homepage: https://vec1phyr.github.io
+Description: Bring back the classics.
+Author: vec1phyr <team_vec1phyr@yahoo.com>
+Depiction: https://vec1phyr.github.io/cydia/dep/com.vec1phyr.appleclassicrespring.html
+Name: iOS6 Apple RespringLogo
+Sponsor: DuckSquadNetwork <http://ducksquadnetwork.com>
+
+Package: com.vec1phyr.appleclassicrespring
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: vec1phyr <team_vec1phyr@yahoo.com>
+Depends: anemone
 Filename: deb//com.vec1phyr.appleclassicbl_1.0_iphoneosarm.deb
-Size: 40272
-MD5sum: 6ab754991686114079f9a80df51bf0cf
-SHA1: f61ed55011edb1082ffb1d0b68ae3aaac4cdff4a
-SHA256: a30c3f4a19fd06a060d0809608af1ebbbd524a47fa232dc9a78af2fd84d7077f
+Size: 40038
+MD5sum: 8cefb52e3e278032a0d377de7c529d2e
+SHA1: 947a91f36d3a0b4c785e2f13ef6525d3454aa470
+SHA256: dd2ab3115f01c9ca789382107342f2fa0c063fc9ad4018ba22a58cd3e35b73e5
 Section: Themes
 Homepage: https://vec1phyr.github.io
 Description: Bring back the classics.
@@ -40,19 +56,36 @@ Package: com.vec1phyr.classicsfx
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: vec1phyr <team_vec1phyr@yahoo.com>
-Depends: com.anemonetheming.anemone
-Conflicts: winterboard
+Depends: anemone
 Filename: deb//com.vec1phyr.classicsfx_1.0_iphoneosarm.deb
-Size: 6845598
-MD5sum: 73f857ea530a46c78f0609293dd50d1a
-SHA1: 5add27f3f66fa64d9684561b87506fa609e03795
-SHA256: 619d1a55ae378320c24ce7a4e5b08a92b60d2be23383c58ae308b2d6c2a4c35b
+Size: 8164346
+MD5sum: c32c20378a3b2adf506a5ac898750dbd
+SHA1: 47411f0fa1e39be27d460d4c636c49fef24f235b
+SHA256: fa6887da4575c5945abff5945f64a9aca2c68afa07444253b3195373261248a5
 Section: Sound
 Homepage: https://vec1phyr.github.io
 Description: Bring back the classics.
 Author: vec1phyr <team_vec1phyr@yahoo.com>
 Depiction: https://vec1phyr.github.io/cydia/dep/com.vec1phyr.classicsfx.html
-Name: ClassicSounds
+Name: ClassicSound
+Sponsor: DuckSquadNetwork <http://ducksquadnetwork.com>
+
+Package: com.vec1phyr.glitchybird
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: vec1phyr <team_vec1phyr@yahoo.com>
+Depends: anemone
+Filename: deb//com.vec1phyr.glitchybird_1.0_iphoneosarm.deb
+Size: 1518452
+MD5sum: 728188ff700454a0ad0549f58bab20cb
+SHA1: a1f6ad289c4ed25e9e2a6ac4bc3f74128ef52928
+SHA256: d683d508d43ced43384727ec8fb0fd516811867253ca2f5ca77f45522fbad1bf
+Section: Themes
+Homepage: https://vec1phyr.github.io
+Description: Whoops...
+Author: vec1phyr <team_vec1phyr@yahoo.com>
+Depiction: https://vec1phyr.github.io/cydia/dep/com.vec1phyr.glitchybird.html
+Name: Glitchy Bird (Flappy Bird)
 Sponsor: DuckSquadNetwork <http://ducksquadnetwork.com>
 
 Package: com.vec1phyr.glitchybird
@@ -77,14 +110,14 @@ Package: com.vec1phyr.lollistatus
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: vec1phyr <team_vec1phyr@yahoo.com>
-Depends: com.anemonetheming.anemone
+Depends: anemone
 Filename: deb//com.vec1phyr.lollistatus_1.0_iphoneosarm.deb
-Size: 12378
-MD5sum: 3ad93de948a11795e6d42f7a670e1898
-SHA1: bcb0724921db89a6c42b849d79bda4fd94cec896
-SHA256: acf7a7cd9ae68e2733fd7b9917c309a6820e26e883a15b57d0754bc708696140
+Size: 13916
+MD5sum: ec9093d64a22701c97375f008147533f
+SHA1: 8e2bf7d9b29c9cf5bebf581bcda60b272ef4bbd0
+SHA256: fe7b8cf71227972024d3e5a50e81db371904ed1cea000513259ad4c114ab89ad
 Section: Themes
-Homepage: http://thedeadlyapple.com
+Homepage: https://vec1phyr.github.io
 Description: Android L themed status-bar
 Author: vec1phyr <team_vec1phyr@yahoo.com>
 Depiction: https://vec1phyr.github.io/cydia/dep/com.vec1phyr.lollistatus.html
@@ -95,12 +128,12 @@ Package: com.vec1phyr.pirateflag
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: vec1phyr <team_vec1phyr@yahoo.com>
-Depends: com.anemonetheming.anemone
+Depends: anemone
 Filename: deb//com.vec1phyr.pirateflag_1.0_iphoneosarm.deb
-Size: 113374
-MD5sum: 9b4593e06cfc3cab5301d640c529efe8
-SHA1: d057794d5868355af59d377ea03e5ed3d88d4d93
-SHA256: 29f36f2a37ad883a8247cd65bb6277fdb021067ec1ee621fed1f629bca0eea3e
+Size: 136204
+MD5sum: a2611ce0900c6a84aeaa875285b283d0
+SHA1: d9210ba4d82c6a82300be312cc19c27283ff2ac9
+SHA256: 0117ed430192fb6e22eac6af341845f4465cf4865d9b4cd265d8bfc7bddc6bc2
 Section: Themes
 Homepage: https://vec1phyr.github.io
 Description: Do what you want, 'cause a pirate is free...
@@ -113,15 +146,15 @@ Package: com.vec1phyr.smbfb
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: vec1phyr <team_vec1phyr@yahoo.com>
-Depends: com.anemonetheming.anemone
+Depends: anemone
 Filename: deb//com.vec1phyr.smbfb_1.0_iphoneosarm.deb
-Size: 770550
-MD5sum: 404969994949ca38f2415ba838ba67b7
-SHA1: df81a23172a63563b48d82b4798fb31c27f0ca30
-SHA256: f777377bf2232e1fdfb89784098236d9992760b0e936768a62179aa9d994b910
+Size: 1009004
+MD5sum: 0c3e0dbcf409c9ea64bfeca2270f172b
+SHA1: b36938c124142eec7abe87df8f88f6a90b8ac12a
+SHA256: 7957dbc3145d6bc9bbbc6a0e05d010fed5286d0f1786764941ce492390ceeffe
 Section: Themes
 Homepage: https://vec1phyr.github.io
-Description: More Nostalgia
+Description: It's a me! Flappy bird!
 Author: vec1phyr <team_vec1phyr@yahoo.com>
 Depiction: https://vec1phyr.github.io/cydia/dep/com.vec1phyr.smbfb.html
 Name: Super Flappy Bros (Flappy Bird)
@@ -131,30 +164,48 @@ Package: com.vec1phyr.smbresb
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: vec1phyr <veciphyrtechnologies@yahoo.com>
-Depends: com.anemonetheming.anemone
+Depends: anemone
 Filename: deb//com.vec1phyr.smbresb_1.0_iphoneosarm.deb
-Size: 9556
-MD5sum: c19e22a6fea0ccff3d7b62dd5c1e95ed
-SHA1: 20bddd09a5341f2117ae7bc3e8224c47289901f2
-SHA256: 5af2dc0d40b267353d53c64da943a9c9ec0dd07b04faa097a55f9235122e17b4
+Size: 9632
+MD5sum: 02cf0d1e54e758d0db4ee8d3c6a65dcc
+SHA1: 87ef1eebf9b96ec5d2ec825f36a9501ed1203769
+SHA256: 154239d3afab9337cca0afe8ca666fc9f3a4e8cb4e099d641df60ce9281b543a
 Section: Themes
 Homepage: https://vec1phyr.github.io
-Description: It'sa me! Mario!
+Description: It's a me! SpringBoard!
 Author: vec1phyr <veciphyrtechnologies@yahoo.com>
 Depiction: https://vec1phyr.github.io/cydia/dep/com.vec1phyr.smbresb.html
 Name: Super Mario Respring Logo
+Sponsor: DuckSquadNetwork <http://ducksquadnetwork.com>
+
+Package: com.vec1phyr.solus-respring
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: vec1phyr <team_vec1phyr@yahoo.com>
+Depends: anemone
+Filename: deb//com.vec1phyr.solus-respring_1.0_iphoneosarm.deb
+Size: 6544
+MD5sum: 013236a71744c70266c3d8d71d506023
+SHA1: 11e0aa1cf9a7a0ae80b7d53fc321fa7da70a2012
+SHA256: 68b5c516108a51ffbdd059d69c41a37ab51ec9c780fbe83fc835edb2b9adb027
+Section: Themes
+Homepage: https://vec1phyr.github.io
+Description: Logo for my music as a respring logo. YAS.
+Author: vec1phyr <team_vec1phyr@yahoo.com>
+Depiction: https://vec1phyr.github.io/cydia/dep/com.vec1phyr.solus-respring.html
+Name: Solus Star (RespringLogo)
 Sponsor: DuckSquadNetwork <http://ducksquadnetwork.com>
 
 Package: com.vec1phyr.win10status
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: vec1phyr <team_vec1phyr@yahoo.com>
-Depends: com.anemonetheming.anemone
+Depends: anemone
 Filename: deb//com.vec1phyr.win10status_1.0_iphoneosarm.deb
-Size: 16058
-MD5sum: 79ae9c8ff5f2de658026b57897011811
-SHA1: f5aa633ba86617b903e98af5207576ecf1326287
-SHA256: 82e0f2097baa6ede651e77d0e08b2ae50d8940abc9101e035254d4c69e7e49a6
+Size: 21356
+MD5sum: 5fe92912ac9153d22584a1d4543cbc96
+SHA1: d4873978f7f8f7b09fea510e25d85878b7269a6b
+SHA256: dc647cc0228ab403f57a29ecdaff12c223ae1a174d9fd760edeef07805337aad
 Section: Themes
 Homepage: https://vec1phyr.github.io
 Description: Windows 10 themed status-bar
