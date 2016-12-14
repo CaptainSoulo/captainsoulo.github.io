@@ -2,11 +2,11 @@ Origin: vec1phyr's Cydia Repository
 Label: vec1phyr's Cydia Repository
 Suite: stable
 Version: 1.0
-Codename: vec1phyr
+Codename: stable
 Architectures: iphoneos-arm
 Components: main
 Description: vec1phyr's Cydia Repository
 MD5Sum: 
-d41d8cd98f00b204e9800998ecf8427e  Packages
-0bdb36fe91bd11807eeb7a66d997bffd  Packages.gz
-4059d198768f9f8dc9372dc1c54bc3c3  Packages.bz2
+ 4f4013e24f764da95db02e230eb58646 6236 Packages
+ c638617d83144ca10bd5076567f050f9 1668 Packages.gz
+ 095d3e4255e5c6b455df6812a195d46c 1828 Packages.bz2
