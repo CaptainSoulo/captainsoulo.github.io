@@ -15,21 +15,21 @@ Depiction: https://vec1phyr.github.io/cydia/dep/com.vec1phyr.8bitflight.html
 Name: 8-Bit Flight (Flappy Bird)
 Sponsor: DuckSquadNetwork <http://ducksquadnetwork.com>
 
-Package: com.vec1phyr.appleclassicrespring
+Package: com.vec1phyr.apple-outline
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: vec1phyr <team_vec1phyr@yahoo.com>
 Filename: deb//com.vec1phyr.apple-outline_1.0_iphoneosarm.deb
-Size: 16682
-MD5sum: b0c72c4dc4f19ad69404094a2826ccf5
-SHA1: da433643a67f0e574103af26dc3935bb68ee3f67
-SHA256: fe17b4def40ccbfedfa44d05c01f5cdcbf91b0e9f3360d679810ef69eeacf717
+Size: 16684
+MD5sum: a12deef1c3d07affd93b3fef6381a0d2
+SHA1: 6408ab213ac68364a41687732edf224f4e0b765b
+SHA256: e68f3149b850d2257a16ecc028dd6a878a2a48261636dec0f66552c0b7fdf161
 Section: Themes
 Homepage: https://vec1phyr.github.io
-Description: Bring back the classics.
+Description: A lovely respring logo.
 Author: vec1phyr <team_vec1phyr@yahoo.com>
-Depiction: https://vec1phyr.github.io/cydia/dep/com.vec1phyr.appleclassicrespring.html
-Name: iOS6 Apple RespringLogo
+Depiction: https://vec1phyr.github.io/cydia/dep/com.vec1phyr.apple-outline.html
+Name: Apple Outline (RespringLogo)
 Sponsor: DuckSquadNetwork <http://ducksquadnetwork.com>
 
 Package: com.vec1phyr.appleclassicrespring
