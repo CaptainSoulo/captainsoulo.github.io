@@ -7,6 +7,6 @@ Architectures: iphoneos-arm
 Components: main
 Description: vec1phyr's Cydia Repository
 MD5Sum: 
- 862443d928c970a714cfc2068dcc8797 8132 Packages
- c68ac6f9398055a0c8261337c7497020 2023 Packages.gz
- c6d9c033d2c23330c5bee96aef0a2290 2137 Packages.bz2
+ 92d61f875f1c53c55b42c509c4eace4f 7926 Packages
+ ae19e7acf6ac65fa6ea5244d449731de 2126 Packages.bz2
+ 7e8995aa0c99126724c71a1dee6f1352 2014 Packages.gz
