@@ -4,14 +4,14 @@ Architecture: iphoneos-arm
 Maintainer: Vec1phyr <vec1phyr@gmail.com>
 Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
 Filename: debs/com.vec1phyr.nintendo-carrier_1.0_iphoneos-arm.deb
-Size: 49416
-MD5sum: 50f8db6d12f397717da50045d55cf2a2
-SHA1: f2b79a1514ef2ca2f587dc76952aedd905a40fee
-SHA256: 24fe1b03251f436ecaf03ca9f3e26a6b71ae6310985cad053e2dc3649c63ba67
+Size: 49658
+MD5sum: a0bcc3b890b46284220d7d23f94fe63f
+SHA1: b96fc0162516a5754bc8ed5574ca7f5094989a39
+SHA256: 07bb65aad6a2a8b741d727bb121d9931cc255f2987b619ae01b265abb66131e3
 Section: "(V) Carriers"
 Homepage: https://beyondgamingrepublic.com
 Description: Nintendo Carriers Pack from Vec1phyr
 Author: vec1phyr <vec1phyr@gmail.com>
-Depiction: https://vec1phyr.github.io/depictions/?p=com.vec1phyr.nintendo-carrier
+Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.nintendo-carrier
 Name: (V) Nintendo Carriers
 
