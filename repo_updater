@@ -1,0 +1,32 @@
+#!/bin/bash
+
+LOGDATE=$(date +"%F-$z")
+LOGFILE="log/repo_updater_$LOGDATE.log"
+exec > >(tee -i "$LOGFILE")
+exec 2>&1
+
+find . -type f -name "*.sw[klmnop]" -delete
+echo "Execute..." 
+rm Packages 
+rm Packages.* 
+dpkg-scanpackages -m debs /dev/null > Packages 
+bzip2 -c9 Packages > Packages.bz2
+echo Done making Packages files. 
+
+md5Sum=$(md5sum Packages.bz2) 
+sum2=$(md5sum Packages)
+#sizeBz2=`stat --printf="%s" Packages.bz2`
+#pkg2=`stat --printf="%s" Packages`
+
+sed -i "/.*Packages*.*/d" Release
+
+echo " $md5Sum" >> Release
+echo " $sum2" >> Release
+
+#sed -i "s/Packages/$size Packages/" Release
+#sed -i "s/*bz2/$pkg2 *bz2/" Release
+
+gpg --batch --yes --passphrase Redtidekills101 -abs -o Release.gpg Release
+echo "Success!"
+echo
+cat Release

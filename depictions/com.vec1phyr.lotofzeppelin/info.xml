@@ -1,0 +1,46 @@
+<package>
+	<id>com.vec1phyr.lotofzeppelin</id>
+	<name>A Whole Lot Of Zeppelin</name>
+	<version>2.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Over 200 Carriers At Your Command!</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		A community-driven Zeppelin logo pack. Most of these were requests by your fellow jailbreakers! Here's a list of each logo:</br></br>- A Fat d00b Bruh </br>- ACDC </br>- Aerosmith </br>- Alice In Chains </br>- Amazon Kindle </br>- Amp Energy </br>- Amp Energy [Insig] </br>- Anarchy </br>- Animal Crossing [Leaf] </br>- Anthrax </br>- Anthrax [Insig] </br>- ArchLinux [Insig] </br>- ArchLinux [Text] </br>- Arctic Monkeys </br>- As I Laying </br>- Asking Alexandria </br>- Assassin's Creed IV [Insig] </br>- Attack Attack! </br>- Avenged Sevenfold </br>- Avenged Sevenfold [Insig] </br>- Awolnation </br>- Axe </br>- Aziz [1] </br>- Aziz [2] </br>- Aziz [No Fear] </br>- Baked </br>- Bassnectar </br>- Bassnectar (Timestretch) </br>- Bassnectar [Insig] </br>- Benny Benassi [Insig] </br>- Bentley </br>- Bethesda Softworks </br>- Bio</br>-Hazard [Insig] </br>- Black Mesa </br>- Black Mesa [Insig] </br>- Black Sabbath </br>- Black Sabbath [Insig] </br>- Black Veil Brides [Insig] </br>- Blizzard </br>- Bone Thugs</br>-n</br>-Harmony </br>- Borderlands Vault [Insig] </br>- Borgore </br>- Bread </br>- Budweiser Select [Crown] </br>- Budweiser [Text] </br>- Bungie </br>- Calm Chaotic </br>- Canny Computers [Insig] </br>- Canny Computers [Text] </br>- CCCP Star </br>- Chrysler </br>- Chrysler [Insig] </br>- Chthonic </br>- Chthonic [Insig] </br>- Clash Of Clans </br>- Coca</br>-Cola </br>- Creed </br>- Cydia </br>- Daft Punk </br>- Dark </br>- Darkstar [Insig] </br>- DAYZ </br>- DC Comics </br>- DC Shoes [Custom] </br>- DC Shoes [Insig] </br>- Deadmau5 </br>- Deadmau5 [Insig] </br>- Deathly Hallows </br>- Decepticon </br>- Def Leppard [Color] </br>- Deftones </br>- Deth </br>- DHL </br>- Diablo </br>- Diablo [Insig] </br>- Diamond Supply [Insig] </br>- Diamond Supply [Text] </br>- DICE </br>- Digimite </br>- Digimite [Insig] </br>- Disturbed [Believe Insig] </br>- DMR </br>- Doctor Who </br>- Doctor Who (Police Box Sign) </br>- Doctor Who (Tardis) </br>- Dream Theater </br>- Dream Theater [Insig] </br>- DUB </br>- DxSx21 </br>- Element </br>- Element [Insig] </br>- Eminem </br>- Emporio Armani </br>- Enter Shikari </br>- Enter Shikari [Insig] </br>- EPIC Games [Insig] </br>- Excision </br>- Ferrari [Insig] </br>- Foo Fighters </br>- Ford Mustang [Insig] </br>- Forza Motorsport [Insig] </br>- Fox Racing </br>- Fox Racing [Insig] </br>- Frank </br>- Frostbite 3 [Insig] </br>- Gamecube </br>- Gamecube [Insig] </br>- Garry's Mod </br>- Gillette </br>- Glitch Mob [Insig] </br>- Goldeneye N64 </br>- Goldeneye Reloaded </br>- GoPro </br>- GoPro [Be a HERO] </br>- GoW Crimson Omen [Insig] </br>- Half</br>-Life </br>- Half</br>-Life 2 [Insig] </br>- Half</br>-Life [Insig] </br>- Halo </br>- Heartagram [Insig] </br>- Huboptic </br>- Hunter X Hunter [Insig] </br>- Ill Nino </br>- Ill Nino [Insig] </br>- Imperials [Star Wars] </br>- insanelyi </br>- Iron Maiden </br>- JDM [Shocker] </br>- JDM [Wakaba] </br>- Kingdom Hearts </br>- Kingdom Hearts [Keyblade] </br>- Klaypex </br>- Knife Party </br>- Knife Party [Halloween] </br>- Krewella </br>- KTM </br>- KTM Duke 200 </br>- KTM Duke Bulldog </br>- LA Kings [Insig] </br>- Ledd Zeppelin </br>- Life </br>- Lynyrd Skyrnrd </br>- LZ Jimmy Page [Insig] </br>- LZ John Bonham [Insig] </br>- LZ John Paul Jones [Insig] </br>- LZ Robert Jones [Insig] </br>- Macintosh [Insig] </br>- Marijuana Leaf </br>- Marlboro </br>- Marlboro [Insig] </br>- Marlins [Insig] </br>- Marvel </br>- Marzocchi [Insig] </br>- Megadeth </br>- Metallica </br>- MGMT </br>- Microsoft </br>- Monster Energy </br>- Monster Energy [Insig] </br>- Motionless In White [Insig] </br>- Motley Crue </br>- Mountain Dew (Mid</br>-Millenium) </br>- Mountain Dew (New) </br>- Mountain Dew (Throwback) </br>- NaughtyDog </br>- Neff </br>- Neff [Insig] </br>- Nintendo </br>- Nintendo 64 </br>- Nintendo 64 [Insig] </br>- Nirvana </br>- Nirvana [Insig] </br>- Nismo </br>- Nissan </br>- Oblivion </br>- Old Spice </br>- Ozzy Osbourne </br>- Pantera </br>- Paramore </br>- Pearl Jam </br>- Pepsi </br>- Pepsi [Insig] </br>- Perfect Dark </br>- Pikmin 2 </br>- Playstation 4 </br>- Playstation [Insig] </br>- Pokeball </br>- Pokemon </br>- Police </br>- Police Badge </br>- Prince Hall Mason </br>- Rareware [Insig] </br>- Rebel Alliance (Star Wars) </br>- Rise Against </br>- Rise Against [Insig] </br>- Rockstar Energy </br>- Rockstar Energy [Insig] </br>- Rush </br>- Seagate </br>- Seagate [Insig] </br>- Seether </br>- Shelby Cobra [Insig] </br>- Sierra </br>- Skrillex </br>- Skyrim [Insig] </br>- Sleeping with Sirens </br>- SOLUS EDM </br>- Sony </br>- Sony (MB) </br>- SRT8 </br>- Starcraft 1 </br>- Starcraft 2 </br>- Starcraft 3 </br>- Starfox [Insig] </br>- Steam </br>- System Of A Down </br>- TESOnline [Insig] </br>- The Amity Affliction </br>- The Amity Affliction [Insig] </br>- The Last Of Us </br>- The Operator [Insig] </br>- TheDeadlyApple [Insig] </br>- TheDeadlyApple [Text] </br>- Three Days Grace </br>- Thunderdome [Insig] </br>- Thunderdome [Text] </br>- Treyarch </br>- Tri</br>-Force </br>- Triumph </br>- Twenty</br>-One Pilots [Insig] </br>- Twenty</br>-One Pilots [Logo] </br>- Ubuntu </br>- Ubuntu [Insig] </br>- Unity </br>- Unreal [Insig] </br>- US Army </br>- US Army [Insig] </br>- US Marines [Insig] </br>- US Navy </br>- Valve </br>- Van Halen [Insig] </br>- Vans </br>- Vans 'Off The Wall' [Insig] </br>- Vaynquish [Insig] </br>- Volkswagen </br>- Vxndxtta Dubstep [Insig] </br>- Vyndxtta Dubstep </br>- Western Digital </br>- Western Digital [Insig] </br>- Windows 8 [Insig] </br>- Windows 98 [Insig] </br>- Windows XP [Insig] </br>- Witches Pentacle </br>- Witches Pentacle [Reversed] </br>- Wolfmother </br>- World of Warcraft </br>- WoW Alliance </br>- WoW Horde </br>- XBOX </br>- XBOX [Insig] </br>- You Me At Six </br>- Young & Reckless [Insig] </br>- ZEDD </br>- ZEDD [Insig] </br>- Zoo York</br></br>Requests, comments, feedback or questions should go to my Twitter account @its_vec1phyr or my email vec1phyr@gmail.com. Enjoy!
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>lotofzeppelin1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>lotofzeppelin2.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Version 2.5</change>
+		<change>Merged AWLOZ1 and 2 into one super-package</change>
+	</changelog>
+	<links>
+		<link>
+			<name>My Twitter</name>
+			<url>https://twitter.com/its_vec1phyr</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
