@@ -21,10 +21,10 @@ Architecture: iphoneos-arm
 Maintainer: Vec1phyr <vec1phyr@gmail.com>
 Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
 Filename: debs/com.vec1phyr.brands-carrier_1.0_iphoneos-arm.deb
-Size: 153936
-MD5sum: c67f17b877cba8b698c82b37d9effaeb
-SHA1: 0cac5dace0c39d8d2709156cd510f17e1d99ada5
-SHA256: fd59d7f3d24b17a4a88f32463fd0f37f6a976e028c1e81a8dd0c1a03be589733
+Size: 158260
+MD5sum: a05a0a250c2b73da5507421cccdf65ab
+SHA1: 486711f79fb1b8c1c396fe51b03fed629b1d1ff7
+SHA256: becf4f5447f39c4b1a6f215fafa2950a4cd02a83e0e666354412aed05bcd1e0a
 Section: (V) Carriers
 Homepage: https://beyondgamingrepublic.com
 Description: Popular Brand Carriers Pack from Vec1phyr
@@ -72,10 +72,10 @@ Architecture: iphoneos-arm
 Maintainer: Vec1phyr <vec1phyr@gmail.com>
 Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
 Filename: debs/com.vec1phyr.gaming-carrier_1.0_iphoneos-arm.deb
-Size: 220784
-MD5sum: 9b32a052076f7a57c20a4f84440bb090
-SHA1: 1b3475bcf59ab603188ab25b4d112ce9a5d10bfc
-SHA256: 5f7ad36d468b3bba030ae3fd4daef1dafb01835d1bc1fbd8d7675733ea3c68d0
+Size: 222560
+MD5sum: d73992ef6fd12e28e3932db9de3a3fd3
+SHA1: b4f8b75c1901e26f80543a3173c48586774f4fd0
+SHA256: 297b57c9b6e933f5a43bd9c7597a52f2783e8aa3cb22dc660ac06158b1d9a145
 Section: (V) Carriers
 Homepage: https://beyondgamingrepublic.com
 Description: Gaming Carriers Pack from Vec1phyr
@@ -140,10 +140,10 @@ Architecture: iphoneos-arm
 Essential: yes
 Maintainer: Vec1phyr <vec1phyr@gmail.com>
 Filename: debs/com.vec1phyr.repo-icons_1.0_iphoneos-arm.deb
-Size: 9710
-MD5sum: 1993b6986d9fc20cb942217684eeebd0
-SHA1: af5850c6f8baf245d7e75150b5eb9aa3ad2cd2c9
-SHA256: eb637a6204fd6dadf90f3dbfda646ff5801aae8643a19296587c63ba994488e8
+Size: 9714
+MD5sum: 19dcf0edfd192c23c671c60132c61676
+SHA1: 8368c97aa78488accda7c849406e05cec8658e33
+SHA256: 4b79dc02209e15ef81313b7afdc61618781bdec5bdaa74c3a3efe4e46d5b04bb
 Section: (V) Repo Icons
 Homepage: https://beyondgamingrepublic.com
 Description: Vec1phyr's Repo Icons
@@ -208,10 +208,10 @@ Architecture: iphoneos-arm
 Maintainer: Vec1phyr <vec1phyr@gmail.com>
 Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
 Filename: debs/com.vec1phyr.tech-carrier_1.0_iphoneos-arm.deb
-Size: 108324
-MD5sum: 838ffb17f41dc16c2b09b5e739efd232
-SHA1: 84802421d49243f7650301a86bbf9fdd3cb7d23a
-SHA256: 58ee4ec058f03e832e36a0108acb52559df3ad21ee3572ee49fb1e38a870d8b8
+Size: 106532
+MD5sum: 8fa07d9582b3247047e50823c885d088
+SHA1: 3c1631d1c1bc1fcbec133a1e84576633a8a5279c
+SHA256: 9150bf5e2975aea26aa4eec3dac122a1a554fd265c6bb06689b9ef24d1920b11
 Section: (V) Carriers
 Homepage: https://beyondgamingrepublic.com
 Description: Technology/Computer Carriers Pack from Vec1phyr
