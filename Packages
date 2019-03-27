@@ -1,3 +1,105 @@
+Package: com.vec1phyr.bethesda-carrier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Vec1phyr <vec1phyr@gmail.com>
+Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
+Filename: debs/com.vec1phyr.bethesda-carrier_1.0_iphoneos-arm.deb
+Size: 81094
+MD5sum: 3d99a4389863b6cc27920b0fe8601cdf
+SHA1: 6471aacd56796a85a6731fddb8cc8084d5b184af
+SHA256: a21a07e2f11da6971b1efa41c5b753bb3eab2e110f17368772d9ff3e45d3cdb6
+Section: (V) Carriers
+Homepage: https://beyondgamingrepublic.com
+Description: Bethesda Carriers Pack from Vec1phyr
+Author: vec1phyr <vec1phyr@gmail.com>
+Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.bethesda-carrier
+Name: (V) Bethesda Carriers
+
+Package: com.vec1phyr.brands-carrier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Vec1phyr <vec1phyr@gmail.com>
+Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
+Filename: debs/com.vec1phyr.brands-carrier_1.0_iphoneos-arm.deb
+Size: 153936
+MD5sum: c67f17b877cba8b698c82b37d9effaeb
+SHA1: 0cac5dace0c39d8d2709156cd510f17e1d99ada5
+SHA256: fd59d7f3d24b17a4a88f32463fd0f37f6a976e028c1e81a8dd0c1a03be589733
+Section: (V) Carriers
+Homepage: https://beyondgamingrepublic.com
+Description: Popular Brand Carriers Pack from Vec1phyr
+Author: vec1phyr <vec1phyr@gmail.com>
+Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.brands-carrier
+Name: (V) Popular Brand Carriers
+
+Package: com.vec1phyr.edm-carrier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Vec1phyr <vec1phyr@gmail.com>
+Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
+Filename: debs/com.vec1phyr.edm-carrier_1.0_iphoneos-arm.deb
+Size: 126342
+MD5sum: 72c1b59e1a0c90bacbc776d03a604013
+SHA1: 9c31c0eadfafeeecbb080c03d6505518ea7891f8
+SHA256: b7ff6f78ac45a1938d7fed86a6aee6017bf88d926bd394c829ded2787c722f5a
+Section: (V) Carriers
+Homepage: https://beyondgamingrepublic.com
+Description: EDM & Bass Music Carriers Pack from Vec1phyr
+Author: vec1phyr <vec1phyr@gmail.com>
+Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.edm-carrier
+Name: (V) EDM/Bass Music Carriers
+
+Package: com.vec1phyr.fandom-carrier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Vec1phyr <vec1phyr@gmail.com>
+Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
+Filename: debs/com.vec1phyr.fandom-carrier_1.0_iphoneos-arm.deb
+Size: 183712
+MD5sum: 2e1c28c9335d4acf1d5b8280ee8abb81
+SHA1: 9118d5459e1bda15d1d64aa5bd5db626839e0eb3
+SHA256: 21fcd712987d1a22acec931662e23bbe317dac614d81852d28275eedc5a7d41b
+Section: (V) Carriers
+Homepage: https://beyondgamingrepublic.com
+Description: Popular Fandom Carriers Pack from Vec1phyr
+Author: vec1phyr <vec1phyr@gmail.com>
+Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.fandom-carrier
+Name: (V) Fandom Carriers
+
+Package: com.vec1phyr.gaming-carrier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Vec1phyr <vec1phyr@gmail.com>
+Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
+Filename: debs/com.vec1phyr.gaming-carrier_1.0_iphoneos-arm.deb
+Size: 220784
+MD5sum: 9b32a052076f7a57c20a4f84440bb090
+SHA1: 1b3475bcf59ab603188ab25b4d112ce9a5d10bfc
+SHA256: 5f7ad36d468b3bba030ae3fd4daef1dafb01835d1bc1fbd8d7675733ea3c68d0
+Section: (V) Carriers
+Homepage: https://beyondgamingrepublic.com
+Description: Gaming Carriers Pack from Vec1phyr
+Author: vec1phyr <vec1phyr@gmail.com>
+Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.gaming-carrier
+Name: (V) Gaming Carriers
+
+Package: com.vec1phyr.misc-carrier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Vec1phyr <vec1phyr@gmail.com>
+Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
+Filename: debs/com.vec1phyr.misc-carrier_1.0_iphoneos-arm.deb
+Size: 147046
+MD5sum: 3728e4973c75d6c6e86a731d50a7ca16
+SHA1: ea6c6a06b047f86bba058fd0cf4d1c15be84b5d5
+SHA256: cc41ff08ec43c6a9c5023a4155cd50dfe8dec0af3df56ebdd4a2bd93432bc599
+Section: (V) Carriers
+Homepage: https://beyondgamingrepublic.com
+Description: A Mix Of Requested Carriers from Vec1phyr
+Author: vec1phyr <vec1phyr@gmail.com>
+Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.misc-carrier
+Name: (V) Miscellaneous Carriers
+
 Package: com.vec1phyr.nintendo-carrier
 Version: 1.0
 Architecture: iphoneos-arm
@@ -14,4 +116,89 @@ Description: Nintendo Carriers Pack from Vec1phyr
 Author: vec1phyr <vec1phyr@gmail.com>
 Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.nintendo-carrier
 Name: (V) Nintendo Carriers
+
+Package: com.vec1phyr.racing-carrier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Vec1phyr <vec1phyr@gmail.com>
+Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
+Filename: debs/com.vec1phyr.racing-carrier_1.0_iphoneos-arm.deb
+Size: 80394
+MD5sum: c542a7bd0e2e59fba6c726061913adeb
+SHA1: fecb4d5562d6a981b460b18e7c4cd0c8f78600c2
+SHA256: c0707ca9c15f7dea79ec45918cdbd3052a47625d7520711320890b6bfad7df93
+Section: (V) Carriers
+Homepage: https://beyondgamingrepublic.com
+Description: Car/Bike Carriers Pack from Vec1phyr
+Author: vec1phyr <vec1phyr@gmail.com>
+Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.racing-carrier
+Name: (V) Car/Bike Carriers
+
+Package: com.vec1phyr.rock-carrier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Vec1phyr <vec1phyr@gmail.com>
+Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
+Filename: debs/com.vec1phyr.rock-carrier_1.0_iphoneos-arm.deb
+Size: 367888
+MD5sum: 22059d8bcaa70ca114eb983988846d0f
+SHA1: bf843eaaca16c5a8bf7afc01fd8cd3e61141081e
+SHA256: bbc242d3c7230999f9e56aff977d978dbbe0c9f8531b52cce05abf0f592aadd1
+Section: (V) Carriers
+Homepage: https://beyondgamingrepublic.com
+Description: Rock/Metal Music Carriers Pack from Vec1phyr
+Author: vec1phyr <vec1phyr@gmail.com>
+Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.rock-carrier
+Name: (V) Rock/Metal Music Carriers
+
+Package: com.vec1phyr.service-carrier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Vec1phyr <vec1phyr@gmail.com>
+Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
+Filename: debs/com.vec1phyr.service-carrier_1.0_iphoneos-arm.deb
+Size: 42754
+MD5sum: 51199bb2768eac15da6712e34962b784
+SHA1: 663e6ad2b8294fb6c14aa7eb926c1f0296a44e3f
+SHA256: 25947dabf4eb7e6d6624f4854a652472c542fc64bbcf78a454413769ee0d85e0
+Section: (V) Carriers
+Homepage: https://beyondgamingrepublic.com
+Description: Public Service Carriers Pack from Vec1phyr
+Author: vec1phyr <vec1phyr@gmail.com>
+Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.service-carrier
+Name: (V) Public Service Carriers
+
+Package: com.vec1phyr.skate-carrier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Vec1phyr <vec1phyr@gmail.com>
+Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
+Filename: debs/com.vec1phyr.skate-carrier_1.0_iphoneos-arm.deb
+Size: 77606
+MD5sum: 4d028db1ee271c3e8df43a7617025e99
+SHA1: 96f19131ae967173f5b419ba414779dae62696e3
+SHA256: bb91fa57ef36a85d44408536b9d31a3fedd12862bb0601fd24adb2098dafd3e7
+Section: (V) Carriers
+Homepage: https://beyondgamingrepublic.com
+Description: Skate Brand Carriers Pack from Vec1phyr
+Author: vec1phyr <vec1phyr@gmail.com>
+Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.skate-carrier
+Name: (V) Skate Brand Carriers
+
+Package: com.vec1phyr.tech-carrier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Vec1phyr <vec1phyr@gmail.com>
+Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
+Filename: debs/com.vec1phyr.tech-carrier_1.0_iphoneos-arm.deb
+Size: 108324
+MD5sum: 838ffb17f41dc16c2b09b5e739efd232
+SHA1: 84802421d49243f7650301a86bbf9fdd3cb7d23a
+SHA256: 58ee4ec058f03e832e36a0108acb52559df3ad21ee3572ee49fb1e38a870d8b8
+Section: (V) Carriers
+Homepage: https://beyondgamingrepublic.com
+Description: Technology/Computer Carriers Pack from Vec1phyr
+Author: vec1phyr <vec1phyr@gmail.com>
+Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.tech-carrier
+Name: (V) Technology/Computer Carriers
 
