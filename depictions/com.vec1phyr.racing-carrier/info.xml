@@ -1,6 +1,6 @@
 <package>
-	<id>com.vec1phyr.nintendo-carrier</id>
-	<name>(V) Nintendo Carriers</name>
+	<id>com.vec1phyr.racing-carrier</id>
+	<name>(V) Car/Bike Carriers</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -10,10 +10,10 @@
 	<dependencies>
 		<package>Zeppelin/Xeon</package>
 	</dependencies>
-	<shortDescription>My first pack on this repo! Nintendo Carriers!</shortDescription>
+	<shortDescription>I wonder if you know, how they live in Tokyo!</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-		Nintendo Carrier Pack, contains: Animal Crossing, Nintendo Logo, Nintendo 64 Logo, Perfect Dark, Pikmin 2 Logo, a Pokeball, Pokemon logo, Starfox insignia, and the Hylian Triforce! More to come!
+		Car/Bike Pack contains: Bentley, Chrysler, Ferrari, Ford Mustang, Fox Racing, JDM Shocker, JDM Wakaba, KTM, Nismo, Nissan, Scat Pack Superbee, Shelby Cobra, SRT8, Triumph, and Volkswagen. More to come!
 		]]>
 		</description>
 	</descriptionlist>

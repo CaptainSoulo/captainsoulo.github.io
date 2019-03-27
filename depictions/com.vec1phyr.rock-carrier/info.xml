@@ -1,6 +1,6 @@
 <package>
-	<id>com.vec1phyr.nintendo-carrier</id>
-	<name>(V) Nintendo Carriers</name>
+	<id>com.vec1phyr.rock-carrier</id>
+	<name>(V) Rock/Metal Music Carriers</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -10,10 +10,10 @@
 	<dependencies>
 		<package>Zeppelin/Xeon</package>
 	</dependencies>
-	<shortDescription>My first pack on this repo! Nintendo Carriers!</shortDescription>
+	<shortDescription>Sing with me, sing for the years, sing for the laughter, sing for the tears!</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-		Nintendo Carrier Pack, contains: Animal Crossing, Nintendo Logo, Nintendo 64 Logo, Perfect Dark, Pikmin 2 Logo, a Pokeball, Pokemon logo, Starfox insignia, and the Hylian Triforce! More to come!
+		Rock/Metal Music Pack contains: AC/DC, Aerosmith, Anthrax, Arctic Monkeys, As I Lay Dying, Chthonic, Creed, HIM, Foo Fighters, Ill Nino, Ledd Zeppelin, Lynyrd Skynrd, Pink Floyd, and so much more! More to come!
 		]]>
 		</description>
 	</descriptionlist>

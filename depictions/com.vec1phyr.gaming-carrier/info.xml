@@ -1,6 +1,6 @@
 <package>
-	<id>com.vec1phyr.nintendo-carrier</id>
-	<name>(V) Nintendo Carriers</name>
+	<id>com.vec1phyr.gaming-carrier</id>
+	<name>(V) Gaming Carriers</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -10,10 +10,10 @@
 	<dependencies>
 		<package>Zeppelin/Xeon</package>
 	</dependencies>
-	<shortDescription>My first pack on this repo! Nintendo Carriers!</shortDescription>
+	<shortDescription>I've been having these weird thoughts lately... Is any of this for real? Or not?</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-		Nintendo Carrier Pack, contains: Animal Crossing, Nintendo Logo, Nintendo 64 Logo, Perfect Dark, Pikmin 2 Logo, a Pokeball, Pokemon logo, Starfox insignia, and the Hylian Triforce! More to come!
+		Gaming Carrier Pack, contains: Assassin's Creed logos, Half Life/Black Mesa logos, Bungie, Blizzard, Dice, Playstation, OpTic Gaming, Steam and more! More to come too!
 		]]>
 		</description>
 	</descriptionlist>

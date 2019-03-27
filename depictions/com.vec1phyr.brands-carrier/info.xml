@@ -1,6 +1,6 @@
 <package>
-	<id>com.vec1phyr.nintendo-carrier</id>
-	<name>(V) Nintendo Carriers</name>
+	<id>com.vec1phyr.brands-carrier</id>
+	<name>(V) Popular Brand Carriers</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -10,10 +10,10 @@
 	<dependencies>
 		<package>Zeppelin/Xeon</package>
 	</dependencies>
-	<shortDescription>My first pack on this repo! Nintendo Carriers!</shortDescription>
+	<shortDescription>Some popular brands put as Zeppelin carriers!</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-		Nintendo Carrier Pack, contains: Animal Crossing, Nintendo Logo, Nintendo 64 Logo, Perfect Dark, Pikmin 2 Logo, a Pokeball, Pokemon logo, Starfox insignia, and the Hylian Triforce! More to come!
+		Popular Brand Carrier Pack, contains: Amp, Axe, Budweiser, Coca-Cola, DHL, Armani, Gillette, Marlboro, Marzocchi, Monster, Mtn Dew, Old Spice, Pepsi, Rockstar and True Religion. More to come!
 		]]>
 		</description>
 	</descriptionlist>

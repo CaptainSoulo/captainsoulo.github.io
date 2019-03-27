@@ -1,6 +1,6 @@
 <package>
-	<id>com.vec1phyr.bethesda-carrier</id>
-	<name>(V) Bethesda Carriers</name>
+	<id>com.vec1phyr.repo-icons</id>
+	<name>(V) Repo Icons</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -8,25 +8,13 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>Zeppelin/Xeon</package>
+		<package>Cydia</package>
 	</dependencies>
-	<shortDescription>All things Dovah and Elder Scrolls!</shortDescription>
+	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description><![CDATA[
-		Bethesda Carrier Pack, contains: Bethesda Softworks logo, Oblivion Logo, Skyrim Logo, Skyrim Guild logos, Skyrim Shadowmarks and Skyrim Skills. More to come!
-		]]>
+		<description>Icons for sections on this repo.</br>No screenshots for this package.
 		</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description></description>
-			<image>img1.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image>img2.jpg</image>
-		</screenshot>		
-	</screenshots>
 	<changelog>
 		<change>Version 1.0</change>
 		<change>Initial Release</change>

@@ -106,11 +106,11 @@ Architecture: iphoneos-arm
 Maintainer: Vec1phyr <vec1phyr@gmail.com>
 Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
 Filename: debs/com.vec1phyr.nintendo-carrier_1.0_iphoneos-arm.deb
-Size: 49658
-MD5sum: a0bcc3b890b46284220d7d23f94fe63f
-SHA1: b96fc0162516a5754bc8ed5574ca7f5094989a39
-SHA256: 07bb65aad6a2a8b741d727bb121d9931cc255f2987b619ae01b265abb66131e3
-Section: "(V) Carriers"
+Size: 49664
+MD5sum: d61cbd6a35a925d56b0dbad5c87b30aa
+SHA1: 7f6b689db3bd4149f2dd3628f9402db3e2917660
+SHA256: 4ba5b657775f3b9a974bd68cb88a657f925dbbf63abe6391278aeab1b570f841
+Section: (V) Carriers
 Homepage: https://beyondgamingrepublic.com
 Description: Nintendo Carriers Pack from Vec1phyr
 Author: vec1phyr <vec1phyr@gmail.com>
@@ -133,6 +133,23 @@ Description: Car/Bike Carriers Pack from Vec1phyr
 Author: vec1phyr <vec1phyr@gmail.com>
 Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.racing-carrier
 Name: (V) Car/Bike Carriers
+
+Package: com.vec1phyr.repo-icons
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: yes
+Maintainer: Vec1phyr <vec1phyr@gmail.com>
+Filename: debs/com.vec1phyr.repo-icons_1.0_iphoneos-arm.deb
+Size: 9710
+MD5sum: 1993b6986d9fc20cb942217684eeebd0
+SHA1: af5850c6f8baf245d7e75150b5eb9aa3ad2cd2c9
+SHA256: eb637a6204fd6dadf90f3dbfda646ff5801aae8643a19296587c63ba994488e8
+Section: (V) Repo Icons
+Homepage: https://beyondgamingrepublic.com
+Description: Vec1phyr's Repo Icons
+Author: vec1phyr <vec1phyr@gmail.com>
+Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.repo-icons
+Name: Vec1phyr's Repo Icons
 
 Package: com.vec1phyr.rock-carrier
 Version: 1.0

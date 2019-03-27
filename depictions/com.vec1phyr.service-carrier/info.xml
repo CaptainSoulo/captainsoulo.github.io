@@ -1,6 +1,6 @@
 <package>
-	<id>com.vec1phyr.nintendo-carrier</id>
-	<name>(V) Nintendo Carriers</name>
+	<id>com.vec1phyr.service-carrier</id>
+	<name>(V) Public Service Carriers</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -10,10 +10,10 @@
 	<dependencies>
 		<package>Zeppelin/Xeon</package>
 	</dependencies>
-	<shortDescription>My first pack on this repo! Nintendo Carriers!</shortDescription>
+	<shortDescription>To protect and serve</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-		Nintendo Carrier Pack, contains: Animal Crossing, Nintendo Logo, Nintendo 64 Logo, Perfect Dark, Pikmin 2 Logo, a Pokeball, Pokemon logo, Starfox insignia, and the Hylian Triforce! More to come!
+		Public Service Pack contains: NASA, Police, US Army, US Marines and US Navy. More to come!
 		]]>
 		</description>
 	</descriptionlist>
