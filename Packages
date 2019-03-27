@@ -66,6 +66,23 @@ Author: vec1phyr <vec1phyr@gmail.com>
 Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.fandom-carrier
 Name: (V) Fandom Carriers
 
+Package: com.vec1phyr.fandom-carrier
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Vec1phyr <vec1phyr@gmail.com>
+Depends: com.alexzielenski.zeppelin | com.peterdev.xeon
+Filename: debs/com.vec1phyr.fandom-carrier_1.0-1_iphoneos-arm.deb
+Size: 50138
+MD5sum: 019074d08d4bc435c79f0b40b2c586fe
+SHA1: b8c3f336e46a2ec9e33b4ea6718dee64af1e6928
+SHA256: 460de6bc4172655d13867e04fa91f8026c8eca6ad3ca09e9bbc25299758aa0c3
+Section: (V) Carriers
+Homepage: https://beyondgamingrepublic.com
+Description: Popular Fandom Carriers Pack from Vec1phyr
+Author: vec1phyr <vec1phyr@gmail.com>
+Depiction: https://vec1phyr.github.io/depictions/index.html?p=com.vec1phyr.fandom-carrier
+Name: (V) Fandom Carriers
+
 Package: com.vec1phyr.gaming-carrier
 Version: 1.0
 Architecture: iphoneos-arm
